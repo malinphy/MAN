@@ -6,5 +6,5 @@
 Deep learning based modern recommendation systems has been worked. 
 - Feed Forward Neural Network with ranking 
 - Convolutional Ranking based recommender system
-- [BERT4Rec] (https://github.com/malinphy/recommender_sys/tree/main/BERT4Rec) 
+- BERT4Rec (https://github.com/malinphy/recommender_sys/tree/main/BERT4Rec) 
 
