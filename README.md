@@ -1,5 +1,5 @@
 
-### Portfoli website for Mehmet Ali Nebioglu
+### Mehmet Ali Nebioglu
 [Sentiment Classification](https://github.com/malinphy/Google_bert)
 
 [Recommender Systems](https://github.com/malinphy/recommender_sys)
