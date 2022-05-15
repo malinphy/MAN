@@ -4,7 +4,7 @@
 
 [Recommender Systems](https://github.com/malinphy/recommender_sys)
 Deep learning based modern recommendation systems has been worked. 
-- [Feed Forward Neural Network with ranking](https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess)
+- [Two Stage Recommender System](https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess)
 - Convolutional Ranking based recommender system
   - Personal Sequential Recommender System
 - [BERT4Rec](https://github.com/malinphy/recommender_sys/tree/main/BERT4Rec)
