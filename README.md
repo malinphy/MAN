@@ -9,6 +9,7 @@ Deep learning based modern recommendation systems has been worked.
   - Personal Sequential Recommender System
 - [BERT4Rec](https://github.com/malinphy/recommender_sys/tree/main/BERT4Rec)
   - Multihead Attention powered Encoder based Sequential Recommender system
+- Neural Collaborative Filtering
   
 
 [Natural Language Processing](https://github.com/malinphy/Embedding_calls)
