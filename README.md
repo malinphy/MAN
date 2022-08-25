@@ -15,7 +15,8 @@ Deep learning based modern recommendation systems has been worked.
 
 [Natural Language Processing](https://github.com/malinphy/Embedding_calls)
 - [BERT Cloze task](https://github.com/malinphy/Embedding_calls/tree/main/BERT_MLM)
-- [Quick Response Generation by univesal sentence enceoder]()
+- [Quick Response Generation by univesal sentence encoder]()
+- [Natural Language Inference Sentence embeddings]()
 
 
 [A\B Testing](https://github.com/malinphy/stats)
