@@ -14,7 +14,7 @@ Deep learning based modern recommendation systems has been worked.
   
 
 [Natural Language Processing](https://github.com/malinphy/Embedding_calls)
-- [BERT Cloze task](https://github.com/malinphy/Embedding_calls/tree/main/BERT_MLM)
+- [Named Entity Recognition](https://github.com/malinphy/NLP/tree/main/named_entity_recognition)
 - [Quick Response Generation by univesal sentence encoder]()
 - [Natural Language Inference Sentence embeddings]()
 
