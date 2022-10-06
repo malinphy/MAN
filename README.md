@@ -17,6 +17,7 @@ Deep learning based modern recommendation systems has been worked.
 - [Named Entity Recognition](https://github.com/malinphy/named_entity_recognition)
 - [Quick Response Generation by univesal sentence encoder](https://github.com/malinphy/quick_response_generator)
 - [Natural Language Inference Sentence embeddings](https://github.com/malinphy/natural_language_inference)
+- [Sentiment Classification](https://github.com/malinphy/sentiment_classification)
 
 
 [A\B Testing](https://github.com/malinphy/stats)
