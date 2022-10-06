@@ -9,7 +9,7 @@ Deep learning based modern recommendation systems has been worked.
   - Ranking part to provide a recommendation list of items for each user.
 - Convolutional Ranking based recommender system
   - Personal Sequential Recommender System
-- [Neural Collaborative Filtering](https://github.com/malinphy/recommender_sys/tree/main/neural_collaborative_filtering)
+- [Neural Collaborative Filtering](https://github.com/malinphy/neural_collaborative_filtering)
   - Neural network approach of matrix factorization   
   
 
