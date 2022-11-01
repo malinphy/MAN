@@ -20,8 +20,8 @@ Deep learning based modern recommendation systems has been worked.
 - [Two Stage Recommender System](https://github.com/malinphy/recommender_sys/tree/main/YouTube/anime_dataset/dataprocess)
   - Retrieval part to reduce the number of potential items   
   - Ranking part to provide a recommendation list of items for each user.
-- Convolutional Ranking based recommender system
-  - Personal Sequential Recommender System
+- [Convolutional Ranking based recommender system](https://github.com/malinphy/Caser_Model)
+  - Personalized Sequential Recommender System
 - [Neural Collaborative Filtering](https://github.com/malinphy/neural_collaborative_filtering)
   - Neural network approach of matrix factorization   
   
