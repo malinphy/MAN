@@ -4,9 +4,14 @@
 
 [Natural Language Processing](https://github.com/malinphy/Embedding_calls)
 - [Named Entity Recognition](https://github.com/malinphy/named_entity_recognition)
-- [Quick Response Generation by univesal sentence encoder](https://github.com/malinphy/quick_response_generator)
+  - Classification of named entities in a given sentence. System is designed with pre-trained BERT model.
+- [Question Answer Matching by univesal sentence encoder](https://github.com/malinphy/quick_response_generator)
+  - Tensorflow/Keras implementation of Question answer matching system. In short, this project is designed for finding the best possible answers for related         questions. 
 - [Natural Language Inference Sentence embeddings](https://github.com/malinphy/natural_language_inference)
+  - Detection of whether given sentence logically follows to next sentence. Sentences are vectorized using Universal Sentence Encoder(USE) and 
+  system has been trained to optimize similarity of sentece vectors.
 - [Sentiment Classification](https://github.com/malinphy/sentiment_classification)
+  - Sentiment classification on twitter dataset. Deep neural network system on multi-class classification. 
 
 
 
